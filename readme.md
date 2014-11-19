@@ -11,3 +11,6 @@
 	* second you'll write lines to txt
 	* then close the .txt (optional)
 8. learn your email server settings (ports, etc.)
+
+##Here's an image
+![image](img/image.png)
