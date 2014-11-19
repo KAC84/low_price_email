@@ -13,4 +13,4 @@
 8. learn your email server settings (ports, etc.)
 
 ##Here's an image
-![image](img/image.png)
+<!-- ![image](img/image.png)-->
