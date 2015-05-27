@@ -1,5 +1,5 @@
 from _misc import listEmails, listTitles
-import time 
+import time = 0.5
 
 senderEmail  = 'kcowser@randomhouse.com'
 emailSubject = 'Subject: Low Price Promo for ' 
@@ -20,7 +20,8 @@ for emailaddy, title in zip(listEmails,listTitles):
 	print ''
 	print messageBody
 	print '--------'
-	time.sleep(stop_time)
+	#time.sleep(stop_time)
 
 
 #THIS IS SOME NEW STUFF
+
